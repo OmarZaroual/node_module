@@ -1,0 +1,25 @@
+{
+  "name": "random-password-generator",
+  "version": "1.0.0",
+  "description": "A simple and customizable password generator for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OmarZaroual/node_module.git"
+  },
+  "keywords": [
+    "nodejs",
+    "password",
+    "generator",
+    "random"
+  ],
+  "author": "ZAROUAL Omar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OmarZaroual/node_module/issues"
+  },
+  "homepage": "https://github.com/OmarZaroual/node_module#readme"
+}
